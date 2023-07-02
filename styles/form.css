@@ -1,0 +1,28 @@
+#formedit{
+    background-color : rgb(191, 219, 125);
+    width: 500px;
+    height: 290px;
+}
+
+#formadd{
+    background-color: rgb(155, 255, 155);
+    width: 500px;
+    height: 230px;
+}
+div{
+    background-color: rgb(144, 153, 240);
+    height: 100vh ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.show{
+    display: inline,!important;
+}
+
+.hide{
+    display: none;
+}
+
+
+
+

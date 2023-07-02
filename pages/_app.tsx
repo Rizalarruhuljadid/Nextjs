@@ -1,6 +1,12 @@
 import '@/styles/globals.css'
-import type { AppProps } from 'next/app'
+import '@/styles/form.css'
+import FormWarga from './forminputwarga'
 
-export default function App({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+export default function ProfileForm() {
+  return (
+   
+    <FormWarga />
+
+    )
+ 
 }
